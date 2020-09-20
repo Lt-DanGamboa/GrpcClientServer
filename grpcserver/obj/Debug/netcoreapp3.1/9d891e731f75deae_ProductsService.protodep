@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/ProductsService.cs \
+obj\Debug\netcoreapp3.1/ProductsServiceGrpc.cs: ../ProductsService.proto
